@@ -264,3 +264,5 @@ void enviarDatosFirebase(float peso, String color, float porcentaje) {
   
   http.end();
 }
+
+// esto es el archivo de conexión con esp32

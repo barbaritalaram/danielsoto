@@ -13,6 +13,7 @@ void main() async {
   runApp(const MyApp());
 }
 
+
 class ColmenaData {
   final double peso;
   final String fechaHora;
